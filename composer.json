@@ -1,0 +1,12 @@
+{
+    "name": "mapkyca/console-getvalue",
+    "type": "known-console",
+    "description": "Get a value for a key on an entity",
+    "version": "1.0.0",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "GetValue"
+    }
+}
